@@ -1,0 +1,3 @@
+# Coin
+
+A crypto app.
